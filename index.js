@@ -31,9 +31,9 @@ client.on('ready', async () => {
     .setDetails('#losersclub')
 
 
- .setAssetsLargeImage('https://cdn.discordapp.com/attachments/1239815310396358758/1240149228941217904/trim.0D0FB7CA-9A35-4435-8932-E44EFD352109.gif?ex=66458279&is=664430f9&hm=4f58d1ef26e04c0d20f3dc0fead0e788d3ff754723bfea1caace6a0e4c25bd69&') //You can put links in tenor or discord and etc.
+ .setAssetsLargeImage('https://cdn.discordapp.com/attachments/867485720012914689/1241758063900364931/trim.0D0FB7CA-9A35-4435-8932-E44EFD352109.gif?ex=664b5cd1&is=664a0b51&hm=e83cc3c811059f3027d3638edf53a59e25537c4f024b1d01a6d09b5858dce8f2&') //You can put links in tenor or discord and etc.
     .setAssetsLargeText('loser') //Text when you hover the Large image
-    .setAssetsSmallImage('https://cdn.discordapp.com/attachments/867485720012914689/1240365871009107978/abstract-surface-textures-white-concrete-stone-wall_74190-8189_1.png?ex=66464c3c&is=6644fabc&hm=373ccb8d56c313791aab3228562f99dd491896af7a95569bb7ac4a1662820c30&') //You can put links in tenor or discord and etc.
+    .setAssetsSmallImage('https://cdn.discordapp.com/attachments/867485720012914689/1240365871009107978/abstract-surface-textures-white-concrete-stone-wall_74190-8189_1.png?ex=664ae97c&is=664997fc&hm=a6e5f70e1e1e547ff802c6dd37916d4c93497287e1429b929a7c012a280e28ee&') //You can put links in tenor or discord and etc.
     .setAssetsSmallText('ok') //Text when you hover the Small image
     .addButton('percs', 'https://www.youtube.com/watch?v=72noANFOhdA')
     .addButton('xans', 'https://www.youtube.com/watch?v=Gbqa9n1XOes');
