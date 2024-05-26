@@ -28,7 +28,7 @@ client.on('ready', async () => {
     .setURL('https://www.youtube.com/watch?v=zdfacEpzDIA') //Must be a youtube video link 
     .setState('r,l')
     .setName('xanxietys')
-    .setDetails('#margiela')
+    .setDetails('#jugg')
 
 
  .setAssetsLargeImage('https://cdn.discordapp.com/attachments/867485720012914689/1242687864051990528/1e50089f203f15e0bf11ea0ff766b3d7.png?ex=665404c2&is=6652b342&hm=878c5e3aa5a540edeeab98e54e744d933ce13c5ad906487dd23a6a6fb5a88fc5&') //You can put links in tenor or discord and etc.
@@ -45,7 +45,7 @@ client.on('ready', async () => {
   setInterval(() => {
     const newTime = formatTime();
     if (newTime !== prevTime) {
-      const newDetails = `#margiela `;
+      const newDetails = `#jugg `;
       r.setDetails(newDetails);
       client.user.setActivity(r);
       prevTime = newTime;
